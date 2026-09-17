@@ -6,6 +6,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -14,7 +15,16 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
