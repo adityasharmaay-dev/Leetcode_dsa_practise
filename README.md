@@ -33,6 +33,7 @@
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Knapsack Problem
@@ -47,10 +48,12 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
