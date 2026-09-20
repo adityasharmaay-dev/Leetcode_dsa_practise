@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
@@ -14,6 +15,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
