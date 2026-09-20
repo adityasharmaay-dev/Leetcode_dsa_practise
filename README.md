@@ -31,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
