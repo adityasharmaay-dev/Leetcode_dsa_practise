@@ -12,6 +12,7 @@
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,14 +23,17 @@
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +67,8 @@
 | [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
