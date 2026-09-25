@@ -38,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
