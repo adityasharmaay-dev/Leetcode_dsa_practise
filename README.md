@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -20,6 +21,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0162-find-peak-element) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0274-h-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
