@@ -48,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
