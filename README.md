@@ -83,6 +83,7 @@
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -107,6 +108,7 @@
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -123,6 +126,7 @@
 | [0020-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
