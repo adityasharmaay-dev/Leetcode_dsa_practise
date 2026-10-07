@@ -16,15 +16,15 @@ class Solution {
         }
         return next[0];
     }
-    public int helper(int[] nums, int n, int idx, int prev, int[][] dp){
-        if(idx == n){
-            return 0;
-        }
-        if(dp[idx][prev+1] != -1) return dp[idx][prev+1];
-        int len = 0 + helper(nums, n, idx+1, prev, dp);  //not take
-        if(prev == -1 || nums[idx] > nums[prev]){
-            len = Math.max(len, 1 + helper(nums, n, idx+1, idx, dp));  //take
-        }
-        return dp[idx][prev+1] = len;
-    }
+    // public int helper(int[] nums, int n, int idx, int prev, int[][] dp){
+    //     if(idx == n){
+    //         return 0;
+    //     }
+    //     if(dp[idx][prev+1] != -1) return dp[idx][prev+1];
+    //     int len = 0 + helper(nums, n, idx+1, prev, dp);  //not take
+    //     if(prev == -1 || nums[idx] > nums[prev]){
+    //         len = Math.max(len, 1 + helper(nums, n, idx+1, idx, dp));  //take
+    //     }
+    //     return dp[idx][prev+1] = len;
+    // }
 }
