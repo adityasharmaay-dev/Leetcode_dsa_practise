@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
