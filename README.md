@@ -117,11 +117,13 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -178,5 +181,6 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
