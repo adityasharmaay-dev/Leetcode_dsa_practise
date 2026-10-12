@@ -16,6 +16,7 @@
 | [0275-h-index-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -67,6 +68,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
