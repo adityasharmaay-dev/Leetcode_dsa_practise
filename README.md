@@ -24,6 +24,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -76,6 +77,7 @@
 | [1092-shortest-common-supersequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Knapsack Problem
 |  |
@@ -157,6 +159,7 @@
 | [0274-h-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Counting Sort
 |  |
 | ------- |
