@@ -2,37 +2,30 @@ class Solution {
     public int minCost(int n, int[] cuts) {
         int a = cuts.length;
         int[] arr = new int[a+2];
-        int idx = 0;
-        for(int i=0; i<arr.length; i++){
-            if(i==0){
-                arr[0] = 0;
-            }
-            else if(i==arr.length-1){
-                arr[i] = n;
-            }
-            else{
-                arr[i] = cuts[idx++];
-            }
+        arr[0] = 0;
+        arr[a+1] = n;
+
+        for(int i=1; i<=a; i++){
+            arr[i] = cuts[i-1];
         }
-        int[][] dp = new int[a+1][a+1];
-        for(int[] row : dp){
-            Arrays.fill(row, -1);
-        }
+
         Arrays.sort(arr);
-        return f(arr, 1, a, dp);
-    }
-    public int f(int[] cuts, int i, int j, int[][] dp){
-        if(i>j) return 0;
 
-        if(dp[i][j] != -1){
-            return dp[i][j];
+        int[][] dp = new int[a+2][a+2];
+
+        for(int i=a; i>=1; i--){
+            for(int j=i; j<=a; j++){
+                int min = 100000000;
+
+                for(int ind=i; ind<=j; ind++){
+                    int cost = arr[j+1]-arr[i-1] + dp[i][ind-1] + dp[ind+1][j];
+                    min = Math.min(min, cost);
+                }
+
+                dp[i][j] = min;
+            }
         }
 
-        int min = 100000000;
-        for(int ind = i; ind<=j; ind++){
-            int cost = cuts[j+1]-cuts[i-1] + f(cuts, i, ind-1, dp) + f(cuts, ind+1, j, dp);
-            min = Math.min(min, cost);
-        }
-        return dp[i][j] = min;
+        return dp[1][a];
     }
 }
