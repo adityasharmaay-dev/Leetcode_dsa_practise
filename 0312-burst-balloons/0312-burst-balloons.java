@@ -10,27 +10,23 @@ class Solution {
         }
 
         int[][] dp = new int[n+2][n+2];
-        for(int[] row : dp){
-            Arrays.fill(row, -1);
+
+        for(int i=n; i>=1; i--){
+            for(int j=i; j<=n; j++){
+                int maxi = Integer.MIN_VALUE;
+
+                for(int ind=i; ind<=j; ind++){
+                    int cost = a[i-1] * a[ind] * a[j+1]
+                            + dp[i][ind-1]
+                            + dp[ind+1][j];
+
+                    maxi = Math.max(maxi, cost);
+                }
+
+                dp[i][j] = maxi;
+            }
         }
 
-        return f(1, n, a, dp);
-    }
-
-    public int f(int i, int j, int[] a, int[][] dp){
-        if(i > j) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
-
-        int maxi = Integer.MIN_VALUE;
-
-        for(int ind=i; ind<=j; ind++){
-            int cost = a[i-1] * a[ind] * a[j+1]
-                    + f(i, ind-1, a, dp)
-                    + f(ind+1, j, a, dp);
-
-            maxi = Math.max(maxi, cost);
-        }
-
-        return dp[i][j] = maxi;
+        return dp[1][n];
     }
 }
