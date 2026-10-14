@@ -125,6 +125,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
