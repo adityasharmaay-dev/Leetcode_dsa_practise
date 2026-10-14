@@ -1,10 +1,24 @@
 class Solution {
     public int minCut(String s) {
+        // tabulation
         int n = s.length();
-		int[] dp = new int[n];
-		Arrays.fill(dp, -1);
-		int ans = f(s,0,n,dp) - 1;
-        return ans;
+        if(n==1) return 0;
+		int[] dp = new int[n+1];
+		// Arrays.fill(dp, -1);
+		// int ans = f(s,0,n,dp) - 1;
+        // return ans;
+        
+        for(int i=n-1; i>=0; i--){
+            int min = Integer.MAX_VALUE;
+            for(int j=i; j<n; j++) {
+                if(isPalindrome(i,j,s)) {
+                    int cost = 1 + dp[j+1];
+                    min = Math.min(min, cost);
+                }
+            }
+            dp[i] = min;
+        }
+        return dp[0]-1;
     }
     public static int f(String s, int i, int n, int[] dp) {
 		if(i==n) return 0;
