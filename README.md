@@ -191,6 +191,7 @@
 | [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -223,4 +224,12 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
