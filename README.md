@@ -125,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -140,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 ## Stack
@@ -189,6 +191,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0092-reverse-linked-list-ii) |
