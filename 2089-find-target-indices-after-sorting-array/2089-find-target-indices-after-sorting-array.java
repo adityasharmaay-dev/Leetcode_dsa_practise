@@ -3,6 +3,7 @@ class Solution {
         Arrays.sort(nums);
         List<Integer> ans = new ArrayList<Integer>();
         for(int i=0; i<nums.length; i++){
+            if(nums[i]>target) break;
             if(nums[i] == target) ans.add(i);
         }
         return ans;
