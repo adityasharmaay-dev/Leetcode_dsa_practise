@@ -21,6 +21,7 @@
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -44,6 +45,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0300-longest-increasing-subsequence) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
