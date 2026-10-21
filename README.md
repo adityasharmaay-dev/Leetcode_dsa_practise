@@ -25,6 +25,7 @@
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
+| [1089-duplicate-zeros](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1089-duplicate-zeros) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -222,6 +223,7 @@
 | [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
+| [1089-duplicate-zeros](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1089-duplicate-zeros) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
