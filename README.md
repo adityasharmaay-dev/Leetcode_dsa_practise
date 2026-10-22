@@ -245,6 +245,7 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -257,4 +258,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0852-peak-index-in-a-mountain-array) |
+## Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
