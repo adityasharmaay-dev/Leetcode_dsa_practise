@@ -108,6 +108,7 @@
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0086-partition-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1089-duplicate-zeros) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
