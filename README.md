@@ -255,6 +255,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
@@ -281,6 +282,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
@@ -295,6 +297,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
@@ -314,6 +317,7 @@
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0538-convert-bst-to-greater-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
