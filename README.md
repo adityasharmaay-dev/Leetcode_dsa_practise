@@ -24,6 +24,7 @@
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
@@ -164,6 +165,7 @@
 | [0032-longest-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1021-remove-outermost-parentheses) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 ## Ternary Search
 |  |
