@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -128,6 +129,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
@@ -279,6 +282,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
@@ -295,6 +299,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
