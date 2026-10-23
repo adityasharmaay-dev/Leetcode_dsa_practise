@@ -251,6 +251,7 @@
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Doubly-Linked List
 |  |
@@ -270,6 +271,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -277,10 +279,15 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
