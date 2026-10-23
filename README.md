@@ -253,6 +253,7 @@
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Doubly-Linked List
 |  |
@@ -274,6 +275,7 @@
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -283,6 +285,7 @@
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -293,4 +296,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
