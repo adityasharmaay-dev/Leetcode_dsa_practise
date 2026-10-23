@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -292,6 +295,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -315,6 +319,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0538-convert-bst-to-greater-tree) |
