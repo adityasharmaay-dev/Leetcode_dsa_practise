@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0143-reorder-list) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -274,6 +276,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 ## Ternary Search
 |  |
@@ -343,4 +346,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
