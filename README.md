@@ -252,6 +252,7 @@
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
@@ -277,6 +278,7 @@
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
@@ -289,6 +291,7 @@
 | [0110-balanced-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
@@ -307,5 +310,14 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
