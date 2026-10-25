@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0029-divide-two-integers) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -353,4 +354,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
