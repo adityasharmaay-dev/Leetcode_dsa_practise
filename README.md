@@ -72,6 +72,7 @@
 | [0022-generate-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -358,4 +360,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
