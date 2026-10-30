@@ -36,6 +36,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2574-left-and-right-sum-differences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0209-minimum-size-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2574-left-and-right-sum-differences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
