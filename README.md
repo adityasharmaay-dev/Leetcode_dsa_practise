@@ -33,6 +33,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -56,6 +57,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -201,6 +203,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0853-car-fleet](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0853-car-fleet) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
@@ -255,6 +258,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
 |  |
