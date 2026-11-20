@@ -296,6 +296,7 @@
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -395,10 +397,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
