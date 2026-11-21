@@ -25,6 +25,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
@@ -95,6 +96,7 @@
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -353,6 +355,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -407,6 +410,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
