@@ -297,6 +297,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
@@ -363,6 +364,7 @@
 | [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -423,4 +426,16 @@
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
