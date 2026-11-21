@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1089-duplicate-zeros](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -299,6 +300,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0951-flip-equivalent-binary-trees) |
+| [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
@@ -363,6 +365,7 @@
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -404,6 +407,7 @@
 | [0130-surrounded-regions](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -418,4 +422,5 @@
 | [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
