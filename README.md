@@ -291,6 +291,7 @@
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
@@ -363,6 +364,7 @@
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0733-flood-fill) |
@@ -416,6 +418,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -431,6 +434,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -444,4 +448,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
