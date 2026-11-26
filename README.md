@@ -22,6 +22,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -97,6 +98,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0516-longest-palindromic-subsequence) |
@@ -115,10 +117,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0518-coin-change-ii) |
 ## String
 |  |
@@ -374,6 +378,7 @@
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0695-max-area-of-island) |
