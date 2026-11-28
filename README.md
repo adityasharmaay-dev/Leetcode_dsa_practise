@@ -134,6 +134,7 @@
 | [0044-wildcard-matching](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0345-reverse-vowels-of-a-string) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0127-word-ladder) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1048-longest-string-chain](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1048-longest-string-chain) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -374,6 +376,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
@@ -472,4 +475,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/adityasharmaay-dev/Leetcode_dsa_practise/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
